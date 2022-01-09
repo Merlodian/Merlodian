@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Merlodian
+- 👀 I’m interested in absolutely nothing I have no idea how github works
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: horse & carriage
